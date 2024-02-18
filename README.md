@@ -2,12 +2,11 @@
 
 ### Hi there 👋
 
-- 🏫 Studying at VIT BHOPAL
-- 🌱 I’m currently learning Web Development & DSA with JAVA , Python.
+- 🏫 Student [Studying at VIT BHOPAL]
 - 📫 How to reach me: pateljay51003@gmail.com
 
 # 💫 About Me:
-HI There 👋<br><br>Studying at VIT BHOPAL<br>I 'm Currently Learning Web Development & DSA with Java , Python.<br>
+HI There 👋<br><br>Studying at VIT BHOPAL<br>Currently Learning Full Stack Development<br> Python Enthusiastic & Currently learning DSA with Java<br>
 
 
 ## 🌐 Socials:
