@@ -1,8 +1,10 @@
 
 # About Me:
 - 🏫 Student [Studying at VIT BHOPAL]
+- 🎯 I’m currently learning Full Stack Development
+- 👨🏻‍💻 Python Enthusiastic & learning DSA with Java
 - 📫 How to reach me: pateljay51003@gmail.com
-- <br><br>Studying at VIT BHOPAL<br>Currently Learning Full Stack Development<br> Python Enthusiastic & Currently learning DSA with Java<br>
+
 
 
 ## 🌐 Socials:
