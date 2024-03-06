@@ -1,11 +1,11 @@
-# Jay.05
+
 
 ### Hi there 👋
 
 - 🏫 Student [Studying at VIT BHOPAL]
 - 📫 How to reach me: pateljay51003@gmail.com
 
-# 💫 About Me:
+# About Me:
 HI There 👋<br><br>Studying at VIT BHOPAL<br>Currently Learning Full Stack Development<br> Python Enthusiastic & Currently learning DSA with Java<br>
 
 
