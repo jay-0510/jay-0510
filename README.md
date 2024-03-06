@@ -6,7 +6,7 @@
 - 📫 How to reach me: pateljay51003@gmail.com
 
 # About Me:
-HI There 👋<br><br>Studying at VIT BHOPAL<br>Currently Learning Full Stack Development<br> Python Enthusiastic & Currently learning DSA with Java<br>
+Jay Patel <br><br>Studying at VIT BHOPAL<br>Currently Learning Full Stack Development<br> Python Enthusiastic & Currently learning DSA with Java<br>
 
 
 ## 🌐 Socials:
