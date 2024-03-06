@@ -1,12 +1,8 @@
 
-
-### Hi there 👋
-
+# About Me:
 - 🏫 Student [Studying at VIT BHOPAL]
 - 📫 How to reach me: pateljay51003@gmail.com
-
-# About Me:
-Jay Patel <br><br>Studying at VIT BHOPAL<br>Currently Learning Full Stack Development<br> Python Enthusiastic & Currently learning DSA with Java<br>
+- <br><br>Studying at VIT BHOPAL<br>Currently Learning Full Stack Development<br> Python Enthusiastic & Currently learning DSA with Java<br>
 
 
 ## 🌐 Socials:
